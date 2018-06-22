@@ -7,6 +7,6 @@ import android.support.v7.widget.CardView;
  * Originally created in InsuranceReport.
  */
 
-public class InsurableCard extends CardView{
+public class InsurableCard {
 
 }
