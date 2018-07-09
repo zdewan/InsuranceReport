@@ -1,4 +1,4 @@
-package com.insuranceclaim.insurancereport.com.inusranceclaim.insurancereport.CardUtils;
+package com.insuranceclaim.insurancereport.DataUtils;
 
 /**
  * Created by kyrel_000 on 2018-06-21.
